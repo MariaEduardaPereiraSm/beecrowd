@@ -7,3 +7,4 @@ let vh = parseFloat(lines.shift());
 
 let salario = ht* vh;
 console.log(`NUMBER = ${nf}\nSALARY = U$ ${salario.toFixed(2)}`);
+
